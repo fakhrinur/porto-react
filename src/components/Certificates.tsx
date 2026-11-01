@@ -1,4 +1,4 @@
-import { Award, ExternalLink } from 'lucide-react'
+import { ExternalLink } from 'lucide-react'
 import { GoogleDriveIcon } from './BrandIcons'
 import Section from './Section'
 
