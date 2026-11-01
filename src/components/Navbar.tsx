@@ -7,6 +7,7 @@ const links = [
   { id: 'tentang', label: 'Tentang' },
   { id: 'keahlian', label: 'Keahlian' },
   { id: 'proyek', label: 'Proyek' },
+  { id: 'sertifikat', label: 'Sertifikat' },
   { id: 'pengalaman', label: 'Pengalaman' },
   { id: 'kontak', label: 'Kontak' },
 ]

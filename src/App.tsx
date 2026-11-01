@@ -1,4 +1,5 @@
 import About from './components/About'
+import Certificates from './components/Certificates'
 import Contact from './components/Contact'
 import Experience from './components/Experience'
 import Footer from './components/Footer'
@@ -29,6 +30,7 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
+        <Certificates />
         <Experience />
         <Contact />
       </main>
