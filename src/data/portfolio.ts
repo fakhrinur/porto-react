@@ -112,10 +112,10 @@ export const skillGroups: SkillGroup[] = [
     items: ['React', 'TypeScript', 'JavaScript (ES2023)', 'Next.js', 'HTML5', 'CSS3'],
   },
   {
-    title: 'Styling & UI',
-    description: 'Merancang tampilan yang konsisten dan responsif.',
+    title: 'Database & Backend',
+    description: 'Mengelola data dan logika di balik layar.',
     icon: Palette,
-    items: ['Tailwind CSS', 'Responsive Design'],
+    items: [ 'Node JS', 'Express', 'PostgreSQL','SQL Server', 'REST API'],
   },
   {
     title: 'Tools & Lainnya',
@@ -155,16 +155,16 @@ export const experiences: ExperienceItem[] = [
     role: 'Frontend Developer',
     company: 'Freelance · Remote',
     description:
-      'Mengerjakan landing page dan dashboard untuk klien UMKM dan agensi, dari diskusi kebutuhan sampai deploy.',
+      'Membuat Dummy Project untuk portofolio pribadi, mengutamakan performa, aksesibilitas, dan pengalaman pengguna yang baik.',
     highlights: ['React + TypeScript', 'Desain responsif', 'Optimasi performa'],
   },
   {
     period: '2024 — 2025',
-    role: 'Frontend Developer Intern',
-    company: 'Nama Perusahaan',
+    role: 'Web Developer Intern',
+    company: 'Direktorat Jenderal Minyak dan Gas Bumi',
     description:
       'Membangun dan merawat komponen UI untuk produk internal, berkolaborasi dengan desainer dan backend.',
-    highlights: ['Design system', 'Code review', 'REST API'],
+    highlights: ['React', 'Node', 'REST API'],
   },
   {
     period: '2023 — 2024',
